@@ -1,3 +1,5 @@
+![Summer Blouse Diagnostics Dashboard](dashboard)
+
 # Summer Blouse Performance and Pricing Diagnostics (ZARA)
 
 ## Question
